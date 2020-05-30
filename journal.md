@@ -4,3 +4,5 @@ Hello
 Introduction
 Use reference in introduction
 Insert another reference.
+
+Add figures section.
